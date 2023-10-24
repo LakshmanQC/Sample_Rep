@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>setText_Code</name>
+   <tag></tag>
+   <elementGuidId>974347d5-8e8f-4d63-914a-7c6aeaee0cb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-component/div/form/div/div[2]/div/div/div/div[2]/div/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-component/div/form/div/div[2]/div/div/div/div[2]/div/div[1]/input</value>
+      <webElementGuid>fb179740-d730-4e7d-8e3c-658ad4c67299</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

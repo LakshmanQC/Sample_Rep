@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_NextArrow</name>
+   <tag></tag>
+   <elementGuidId>f58ae6e6-6182-4244-a5d0-363d6f259f6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/sa-navigation/aside/nav/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/sa-navigation/aside/nav/button[2]/i</value>
+      <webElementGuid>bcdfba8d-a93f-4295-8de8-e66e309f9130</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

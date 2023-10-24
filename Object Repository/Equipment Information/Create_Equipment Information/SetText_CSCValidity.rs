@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SetText_CSCValidity</name>
+   <tag></tag>
+   <elementGuidId>d73b76b7-402a-4e0e-80e6-f26a272032ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-equipment-information/div/form/div[1]/div[2]/div/fieldset/div/div/div[2]/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-equipment-information/div/form/div[1]/div[2]/div/fieldset/div/div/div[2]/div[1]/input</value>
+      <webElementGuid>915eff42-97cb-4591-8b93-56dfc4901043</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Toggle_button</name>
+   <tag></tag>
+   <elementGuidId>e93a0cb6-04ef-4566-bd9b-cfc478dde1ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-cleaning-type/div/div/div[2]/div/div[1]/sa-master-entry-form/div/div/div/section[4]/sa-master-form-inputs/section/section/div/fieldset/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-cleaning-type/div/div/div[2]/div/div[1]/sa-master-entry-form/div/div/div/section[4]/sa-master-form-inputs/section/section/div/fieldset/div/label</value>
+      <webElementGuid>2cb58be9-6fe0-42d8-add8-260a66b840eb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

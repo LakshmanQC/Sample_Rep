@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_Delete</name>
+   <tag></tag>
+   <elementGuidId>bd90b6f3-2a2d-475c-9e86-054036513e05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-component/div/div/div/div/div[2]/div/div/div/div[2]/div/div/p-table/div/div/table/tbody/tr/td[4]/span/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-component/div/div/div/div/div[2]/div/div/div/div[2]/div/div/p-table/div/div/table/tbody/tr/td[4]/span/a/i</value>
+      <webElementGuid>59543238-e8f5-4cad-a6b9-f368e70047dd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

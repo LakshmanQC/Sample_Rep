@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_ButtonSignIn</name>
+   <tag></tag>
+   <elementGuidId>181797bf-1e0b-4aac-af9c-10a43398a81a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/sa-login/div[2]/div/form/footer/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/sa-login/div[2]/div/form/footer/button</value>
+      <webElementGuid>52accfe3-7450-4eb8-9c53-b51f8f22c389</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

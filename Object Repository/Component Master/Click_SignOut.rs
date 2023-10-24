@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_SignOut</name>
+   <tag></tag>
+   <elementGuidId>bb7cf607-4539-4421-87a3-d5fbfab7e9d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/sa-header/header/div[3]/sa-logout/div/span/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/sa-header/header/div[3]/sa-logout/div/span/a/i</value>
+      <webElementGuid>117a0f35-d945-4c07-a4d5-9e460ec7bf6c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

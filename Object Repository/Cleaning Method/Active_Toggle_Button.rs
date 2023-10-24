@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Active_Toggle_Button</name>
+   <tag></tag>
+   <elementGuidId>7f71a8ab-6f7f-48b7-9b1f-8a05f412bbd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-cleaning-method/div/form[1]/div/fieldset/div/div/div/div[3]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-cleaning-method/div/form[1]/div/fieldset/div/div/div/div[3]/div/label</value>
+      <webElementGuid>f7fd3281-6dce-41f3-837a-dbdf723b53e6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

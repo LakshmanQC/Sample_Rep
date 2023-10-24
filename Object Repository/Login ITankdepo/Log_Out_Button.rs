@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Log_Out_Button</name>
+   <tag></tag>
+   <elementGuidId>51a225e8-4578-43c3-a3fc-6723f09a2831</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/sa-header/header/div[3]/sa-logout/div/span/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/sa-header/header/div[3]/sa-logout/div/span/a/i</value>
+      <webElementGuid>7ad269a6-9a9a-46b9-a465-9d7068340ce9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

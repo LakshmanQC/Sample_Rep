@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Component</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>9f5f5002-2efe-469d-8895-7d6947b73407</dataFileGUID>
+   <dataSourceUrl>E:\E\SVN\iDepo\07.Testing\iDepoAutomation\Automation Regression Suite for version 1.7.1\Cleaning Process\Test Data For Cleaning Process(Automation).xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Component Master</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

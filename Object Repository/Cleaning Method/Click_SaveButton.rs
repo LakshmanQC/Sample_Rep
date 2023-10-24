@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_SaveButton</name>
+   <tag></tag>
+   <elementGuidId>c02f4a0a-cbf9-48f8-9ed9-ac2db0fb47fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-cleaning-method/div/form[1]/div/div/div[2]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-cleaning-method/div/form[1]/div/div/div[2]/button[2]/span</value>
+      <webElementGuid>43c8dffe-48b5-41ca-8fa4-89a3d8cac11c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

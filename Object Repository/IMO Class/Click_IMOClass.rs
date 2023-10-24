@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_IMOClass</name>
+   <tag></tag>
+   <elementGuidId>24ad7a10-2027-487e-ad0e-1e81d066962d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/sa-navigation/aside/nav/ul/li[18]/ul/li[2]/ul/li[1]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/sa-navigation/aside/nav/ul/li[18]/ul/li[2]/ul/li[1]/a/i</value>
+      <webElementGuid>a0d3d67f-4a8c-4d28-b363-dba896c8a669</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

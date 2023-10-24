@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SetText_Admin</name>
+   <tag></tag>
+   <elementGuidId>5c15f5b8-b2f1-4bc9-b659-042e0f51a741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/sa-login/div[2]/div/form/fieldset/section[4]/label[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/sa-login/div[2]/div/form/fieldset/section[4]/label[2]/input</value>
+      <webElementGuid>51d9f918-2fb5-4a11-b06a-dbe670f5e549</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

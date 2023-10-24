@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Cleaning Type</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>21773cfd-5eda-434c-ad70-d2cb05dca98a</dataFileGUID>
+   <dataSourceUrl>E:\E\SVN\iDepo\07.Testing\iDepoAutomation\Automation Regression Suite for version 1.7.1\Cleaning Process\Test Data For Cleaning Process(Automation).xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Cleaning Type</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

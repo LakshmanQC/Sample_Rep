@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SetText_CleaningMethodDescription</name>
+   <tag></tag>
+   <elementGuidId>f2f1e08c-838b-4493-b0d5-955540cbb5e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-cleaning-method/div/form[1]/div/fieldset/div/div/div/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-cleaning-method/div/form[1]/div/fieldset/div/div/div/div[2]/input</value>
+      <webElementGuid>d68a3095-1ead-4f24-addc-2b9232292b2a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

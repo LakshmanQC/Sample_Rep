@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_Master</name>
+   <tag></tag>
+   <elementGuidId>d9ab341a-4e9d-4316-9867-001d7a9d5b40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/sa-navigation/aside/nav/ul/li[18]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/sa-navigation/aside/nav/ul/li[18]/a/i</value>
+      <webElementGuid>3af589ca-dacb-4b33-a91e-75e3d5ea297f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

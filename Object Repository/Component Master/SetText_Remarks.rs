@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SetText_Remarks</name>
+   <tag></tag>
+   <elementGuidId>655d886f-65b8-455a-85e8-b3273e3ec64f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-component/div/div/div/div/div[1]/form/div/div[2]/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-component/div/div/div/div/div[1]/form/div/div[2]/div[2]/div/input</value>
+      <webElementGuid>96b2ad8f-acd0-4bfc-b883-e9b8a557565e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

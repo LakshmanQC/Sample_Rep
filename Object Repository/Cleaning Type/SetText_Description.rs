@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SetText_Description</name>
+   <tag></tag>
+   <elementGuidId>cee52e96-b264-408b-8912-460a4436e334</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-cleaning-type/div/div/div[2]/div/div[1]/sa-master-entry-form/div/div/div/section[2]/sa-master-form-inputs/section/section/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-cleaning-type/div/div/div[2]/div/div[1]/sa-master-entry-form/div/div/div/section[2]/sa-master-form-inputs/section/section/div[1]/input</value>
+      <webElementGuid>2e17da30-5774-4e68-aae6-7d0c17eec768</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

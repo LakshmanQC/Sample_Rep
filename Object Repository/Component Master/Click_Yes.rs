@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_Yes</name>
+   <tag></tag>
+   <elementGuidId>03aba774-100c-40b2-bb17-efed2276fe1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/p-confirmdialog/div/div[3]/button[1]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/p-confirmdialog/div/div[3]/button[1]/span[1]</value>
+      <webElementGuid>859d93c0-ead2-4f2a-a233-7458e3185f0a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

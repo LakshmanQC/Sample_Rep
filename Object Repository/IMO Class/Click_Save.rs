@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_Save</name>
+   <tag></tag>
+   <elementGuidId>53e13a01-4e10-4fe1-abd4-3ddb5586e297</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/div/sa-imo-class/div/div/div[2]/div/div[1]/sa-master-entry-form/div/section/div[2]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/div/sa-imo-class/div/div/div[2]/div/div[1]/sa-master-entry-form/div/section/div[2]/button[2]/span</value>
+      <webElementGuid>e26d44bf-83dc-4afd-965c-0cf98a05b8fd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

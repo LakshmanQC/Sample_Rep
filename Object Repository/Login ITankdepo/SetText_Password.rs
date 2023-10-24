@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SetText_Password</name>
+   <tag></tag>
+   <elementGuidId>d28119e2-0561-4e9e-8a0a-b89118ba2955</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/sa-login/div[2]/div/form/fieldset/section[5]/label[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/sa-login/div[2]/div/form/fieldset/section[5]/label[2]/input</value>
+      <webElementGuid>efbf028b-bdc4-4bbf-b28d-a812b1efbf02</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

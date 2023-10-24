@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_CleaningProcess</name>
+   <tag></tag>
+   <elementGuidId>4f6f5bbd-6f46-40d4-a1db-c2779f84df1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-main-layout/sa-navigation/aside/nav/ul/li[18]/ul/li[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-main-layout/sa-navigation/aside/nav/ul/li[18]/ul/li[2]/a/i</value>
+      <webElementGuid>93c84a4f-5850-47eb-804d-cf7e4c66a5bd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
